@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "夜とシンセサイザー",
+  "base_artist": "Lucky Kilimanjaro",
+  "createdAt": "2026-01-13T16:38:54.554839Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "夜とシンセサイザー",
+      "artist": "Lucky Kilimanjaro",
+      "has_synced": false,
+      "path": "select/pl_01_夜とシンセサイザー_Lucky_Kilimanjaro.txt"
+    }
+  ]
+}
